@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@keyframes shake {
+
+    0%,
+    100% {
+        transform: translateX(0);
+        transform: translateY(0);
+    }
+
+    20% {
+        transform: translateX(-4px);
+        transform: translateY(-4px);
+    }
+
+    40% {
+        transform: translateX(4px);
+        transform: translateY(4px);
+    }
+
+    60% {
+        transform: translateX(-4px);
+        transform: translateY(-4px);
+    }
+}
+
+.shake-hover:hover {
+    animation: shake 0.4s ease-in-out;
+}

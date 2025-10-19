@@ -1,0 +1,90 @@
+[
+    {
+        "image": ["/assets/facial/test.png", "/assets/facial/accuracy.png", "/assets/facial/classification.png", "/assets/facial/ariana.png", "/assets/facial/curry.png", "/assets/facial/emma.png", "/assets/facial/jordan.png", "/assets/facial/kyrie.png", "/assets/facial/taylor.png"],
+        "title": "Facial Recognition Model",
+        "category": ["AI", "Computer Vision", "Image Recognition","Data Science","Machine Learning","Deep Learning"],
+        "type": "AI",
+        "technologies": ["Python", "CNN", "Jupyter Notebook"],
+        "description": "Developed a facial recognition model using pre-trained VGG-16 model with the accuracy of 92% using Python."
+    },
+    {
+        "image": ["/assets/documentExtraction/document1.jpg", "/assets/documentExtraction/email.jpg", "/assets/documentExtraction/pdf.jpg", "/assets/documentExtraction/ppt.jpg", "/assets/documentExtraction/word.jpg"],
+        "title": "Text Mining & Document Extraction",
+        "category": ["AI", "NLP", "Web Development","Full Stack","Data Science"],
+        "type": "NLP",
+        "technologies": ["Flask", "HTML", "CSS", "JavaScript", "PyMupdf", "NLTK"],
+        "description": "Created a web-based application for text mining and document extraction using Flask framework."
+    },
+    {
+        "image": ["/assets/finance/finance1.png", "/assets/finance/finance2.png"],
+        "title": "Freelancer Finance Dashboard",
+        "category": ["Web Development", "Full Stack", "AI", "OCR", "Prompt Engineering"],
+        "type": "Web Development",
+        "technologies": ["React", "SQL", "Django", "Qwen AI Agent", "OCR", "Prompt Engineering"],
+        "description": "Alibaba Hackathon Developed a finance dashboard for freelancers to manage their finances effectively by OCR text extraction, utilizing Qwen AI Agent for enhanced user experience."
+    },
+    {
+        "image": ["/assets/weather/weather1.png", "/assets/weather/weather2.png"],
+        "title": "Weather Forecasting System",
+        "category": ["Machine Learning", "Data Science"],
+        "type": "Machine Learning",
+        "technologies": ["Python", "Random Forest", "SARIMA", "Figma"],
+        "description": "Collected weather data and applied ML algorithms for forecasting; designed UI with Figma."
+    },
+    {
+        "image": ["/assets/mobile/mobile.png", "/assets/mobile/mobile_1.png", "/assets/mobile/mobile1.png"],
+        "title": "APQueue Mobile Application",
+        "category": ["Mobile Development", "Flutter", "Firebase"],
+        "type": "Mobile Development",
+        "technologies": ["Flutter", "Firebase", "Android Studio","Visual Studio Code"],
+        "description": "Developed a mobile app to manage queues in public places, enhancing user experience and reducing wait times."
+    },
+    {
+        "image": ["/assets/lungCancerPrediction.png"],
+        "title": "Lung Cancer Severity Analysis",
+        "category": ["Data Science", "Machine Learning"],
+        "type": "Data Science",
+        "technologies": ["Python", "Random Forest", "Linear Regression", "Logistic Regression", "Jupyter Notebook", "Streamlit"],
+        "description": "Performed data analysis and applied machine learning algorithms to study the severity of lung cancer."
+    },
+    {
+        "image": ["/assets/alert/alert1.png", "/assets/alert/alert2.png"],
+        "title": "Haemodialysis Alert System",
+        "category": ["Web Development", "Full Stack", "Data Science"],
+        "type": "Web Development",
+        "technologies": ["React", "SQL", "Django"],
+        "description": "Built a web-based alert system with analytics dashboard for health KPI monitoring, fostering collaboration and problem solving."
+    },
+    {
+        "image": [],
+        "title": "Disaster Relief Managament System",
+        "category": ["Data Structures & Algorithms"],
+        "type": "Data Structures & Algorithms",
+        "technologies": ["C++"],
+        "description": "Implemented data structures and algorithms in C++ to manage and optimize disaster relief operations for a real-world simulations."
+    },
+    {
+        "image": [],
+        "title": "Fraud Detection Dataset Analysis",
+        "category": ["Data Structures & Algorithms"],
+        "type": "Data Structures & Algorithms",
+        "technologies": ["C++"],
+        "description": "Implemented data structures and algorithms in C++ to group the similar data and search for the specific data with query in the fraud detection dataset by exporting the data into json file."
+    },
+    {
+        "image": [""],
+        "title": "2D Pixel Game - TimeForge: Last Knight",
+        "category": ["Game Development"],
+        "type": "Game Development",
+        "technologies": ["Python", "Pygame"],
+        "description": "Developed a 2D pixel game using Pygame, implementing game mechanics, graphics, sound effects, and user interactions."
+    },
+    {
+        "image": [""],
+        "title": "Food Ordering System",
+        "category": ["Java Desktop Application"],
+        "type": "Java Desktop Application",
+        "technologies": ["Java", "OOP", "Swing UI"],
+        "description": "Built case studies using Java with object-oriented concepts and Swing-based GUI design."
+    }
+]
