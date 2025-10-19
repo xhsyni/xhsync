@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Data Scientist Intern",
+        "company": "Hiredly",
+        "duration": "Sep 2025 - Feb 2026",
+        "responsibilities": [
+            "Designed and implemented an NLP-based resume parsing pipeline leveraging OpenAI’s LLMs and Embedding API for information extraction, semantic similarity, and vector storage in MongoDB. Applied prompt engineering techniques to enhance parsing accuracy and candidate-job relevance.",
+            "Developed and fine-tuned hybrid search algorithms combining keyword matching with semantic search for improved candidate ranking.",
+            "Built scalable RESTful APIs with FastAPI to serve parsed data and search results. Containerized and deployed applications using Docker, and managed deployments on DigitalOcean.",
+            "Utilized S3 for structured data storage and retrieval.",
+            "Monitored system and model performance using Datadog and Langfuse.",
+            "Octoparse for automated job market data collection.",
+            "Collaborated with cross-functional teams using Agile methodologies to deliver features iteratively.",
+            "Git for version control and collaboration."
+        ]
+    },
+    {
+        "title": "Data Analyst Intern",
+        "company": "Asia Pacific University (APCA)",
+        "duration": "Aug 2024 - Oct 2024",
+        "responsibilities": [
+           "Developed a web-based dynamic document extraction application using Flask, HTML, CSS, and JavaScript for document analysis.",
+           "Designed and implemented data preprocessing pipelines using Pandas and NumPy to clean and structure large text datasets.",
+           "Support different documents formats such as .pdf, .docx, .pptx, and email to extract textual data for analysis.",
+           "Implemented Natural Language Processing (NLP) techniques such as tokenization, stemming, and lemmatization using NLTK to extract and analyze key textual information."
+        ]
+    }
+]

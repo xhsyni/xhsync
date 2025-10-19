@@ -1,0 +1,20 @@
+[
+    {
+        "degree": "BACHELOR DEGREE OF COMPUTER SCIENCE IN ARTIFICIAL INTELLIGENCE (AI)",
+        "institution": "Asia Pacific University (APU)",
+        "duration": "2024 - 2025",
+        "gpa": "3.56"
+    },
+    {
+        "degree": "DIPLOMA IN ICT WITH A SPECIALISM IN DATA INFORMATICS (DI)",
+        "institution": "Asia Pacific University (APU)",
+        "duration": "2022 - 2024",
+        "gpa": "3.84"
+    },
+    {
+        "degree": "SECONDARY EDUCATION",
+        "institution": "SMJK (C) YUK CHOY",
+        "duration": "2017 - 2022",
+        "gpa": "SPM - 7A 3B+"
+    }
+]
