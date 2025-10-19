@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 // Example: if your repo is `xhsyni/portfolio` and hosted at
 // https://xhsyni.github.io/portfolio/ then base should be '/portfolio/'.
 export default defineConfig({
-  base: '/portfolio/',
+  base: '/xhsync/',
   plugins: [
     tailwindcss(),
   ],

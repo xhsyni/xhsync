@@ -2,7 +2,7 @@ import React from 'react'
 import Navigation from './navigation'
 import Home from './home'
 import Footer from './footer'
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+import { HashRouter as Router, Route, Routes } from 'react-router-dom'
 import { FaRobot } from "react-icons/fa6";
 import InteractiveBackground from './interactiveBG'
 import { useState, useEffect } from 'react'
