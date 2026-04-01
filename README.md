@@ -1,3 +1,6 @@
+# Resume 
+[Resume](src/assets/resume_xuanhan.pdf)
+
 # Portfolio Website Link
 
 https://xhsyni.github.io/xhsync/
